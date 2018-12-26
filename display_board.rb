@@ -61,4 +61,13 @@ puts" "
 puts" "
 
 board = ["X", "O", "X", "O", "X", "X", "O", "X", "O"]
+
+display_board(board)
+
+
+
+board = ["X", "x", "X", "x", "X", "X", "x", "X", "x"]
+display_board(board)
+
+board = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
 display_board(board)
