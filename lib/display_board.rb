@@ -31,7 +31,6 @@ end
 display_board(board)
 
 
-
 board = ["o  ", " ", "o ", " ", "  ", " o ", "  ", "  ", "  "]
 display_board(board)
 
