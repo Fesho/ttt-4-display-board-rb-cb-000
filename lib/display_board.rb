@@ -34,7 +34,6 @@ puts" "
 board = ["o ","  ", "  ", "  o", "  ", "  ", " o ", "  ", "  "]
 display_board(board)
 
-
-board = ["o ",   ", "  ", "  o", "  ", "  ", " o ", "  ", "  "]
+board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
 display_board(board)
 
